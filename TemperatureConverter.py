@@ -53,7 +53,7 @@ def toggle_mode():
 
 # Create the main application window
 app = tk.Tk()
-app.title("Temperature Converter")
+app.title("Omorere's Temperature Converter")
 
 # Create a menu
 menu = tk.Menu(app)
